@@ -1,0 +1,14 @@
+@media only screen and (max-width: 800px){
+    #categories {
+        flex-direction: column;
+    }
+}
+@media only screen and (max-width: 500px){
+    .bottom-nav{
+        flex-direction: column;
+        width: 100%;
+    }
+    .news-bottom{
+        flex-direction: column;
+    }
+}
